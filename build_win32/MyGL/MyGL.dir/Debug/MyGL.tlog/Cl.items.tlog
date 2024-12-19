@@ -1,8 +1,0 @@
-F:\Code\GL\MyGL\MyGL\src\MyGL\buffer\VertexArray.cpp;F:\Code\GL\MyGL\build_win32\MyGL\MyGL.dir\Debug\VertexArray.obj
-F:\Code\GL\MyGL\MyGL\src\MyGL\buffer\buffers.cpp;F:\Code\GL\MyGL\build_win32\MyGL\MyGL.dir\Debug\buffers.obj
-F:\Code\GL\MyGL\MyGL\src\MyGL\render\pipeline.cpp;F:\Code\GL\MyGL\build_win32\MyGL\MyGL.dir\Debug\pipeline.obj
-F:\Code\GL\MyGL\MyGL\src\MyGL\render\rasterizer.cpp;F:\Code\GL\MyGL\build_win32\MyGL\MyGL.dir\Debug\rasterizer.obj
-F:\Code\GL\MyGL\MyGL\src\MyGL\render\renderer.cpp;F:\Code\GL\MyGL\build_win32\MyGL\MyGL.dir\Debug\renderer.obj
-F:\Code\GL\MyGL\MyGL\src\MyGL\render\shader.cpp;F:\Code\GL\MyGL\build_win32\MyGL\MyGL.dir\Debug\shader.obj
-F:\Code\GL\MyGL\MyGL\src\MyGL\texture\texture2d.cpp;F:\Code\GL\MyGL\build_win32\MyGL\MyGL.dir\Debug\texture2d.obj
-F:\Code\GL\MyGL\MyGL\src\MyGL\texture\textureCubeMap.cpp;F:\Code\GL\MyGL\build_win32\MyGL\MyGL.dir\Debug\textureCubeMap.obj
