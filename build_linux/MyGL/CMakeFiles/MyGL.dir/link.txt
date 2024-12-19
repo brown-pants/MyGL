@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyGL.a CMakeFiles/MyGL.dir/src/MyGL/buffer/VertexArray.cpp.o CMakeFiles/MyGL.dir/src/MyGL/buffer/buffers.cpp.o CMakeFiles/MyGL.dir/src/MyGL/render/pipeline.cpp.o CMakeFiles/MyGL.dir/src/MyGL/render/rasterizer.cpp.o CMakeFiles/MyGL.dir/src/MyGL/render/renderer.cpp.o CMakeFiles/MyGL.dir/src/MyGL/render/shader.cpp.o CMakeFiles/MyGL.dir/src/MyGL/texture/texture2d.cpp.o CMakeFiles/MyGL.dir/src/MyGL/texture/textureCubeMap.cpp.o
+/usr/bin/ranlib libMyGL.a

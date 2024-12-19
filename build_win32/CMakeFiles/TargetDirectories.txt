@@ -1,0 +1,15 @@
+F:/Code/GL/MyGL/build_win32/CMakeFiles/ALL_BUILD.dir
+F:/Code/GL/MyGL/build_win32/CMakeFiles/ZERO_CHECK.dir
+F:/Code/GL/MyGL/build_win32/MyGL/CMakeFiles/MyGL.dir
+F:/Code/GL/MyGL/build_win32/MyGL/CMakeFiles/ALL_BUILD.dir
+F:/Code/GL/MyGL/build_win32/Engine/CMakeFiles/Engine.dir
+F:/Code/GL/MyGL/build_win32/Engine/CMakeFiles/ALL_BUILD.dir
+F:/Code/GL/MyGL/build_win32/Engine/3rdparty/glfw/CMakeFiles/ALL_BUILD.dir
+F:/Code/GL/MyGL/build_win32/Engine/3rdparty/glfw/src/CMakeFiles/update_mappings.dir
+F:/Code/GL/MyGL/build_win32/Engine/3rdparty/glfw/src/CMakeFiles/glfw.dir
+F:/Code/GL/MyGL/build_win32/Engine/3rdparty/imgui/CMakeFiles/imgui.dir
+F:/Code/GL/MyGL/build_win32/Engine/3rdparty/imgui/CMakeFiles/ALL_BUILD.dir
+F:/Code/GL/MyGL/build_win32/Sandbox/CMakeFiles/Sandbox.dir
+F:/Code/GL/MyGL/build_win32/Sandbox/CMakeFiles/ALL_BUILD.dir
+F:/Code/GL/MyGL/build_win32/Examples/Lighting/CMakeFiles/Lighting.dir
+F:/Code/GL/MyGL/build_win32/Examples/Lighting/CMakeFiles/ALL_BUILD.dir

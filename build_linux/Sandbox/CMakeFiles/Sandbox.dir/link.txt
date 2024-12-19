@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/Sandbox.dir/src/main.cpp.o -o Sandbox   -L/home/hp/桌面/MyGL/Sandbox/../Engine/include  -Wl,-rpath,/home/hp/桌面/MyGL/Sandbox/../Engine/include ../Engine/libEngine.a ../MyGL/libMyGL.a ../Engine/3rdparty/imgui/libimgui.a ../Engine/3rdparty/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so -lGL 

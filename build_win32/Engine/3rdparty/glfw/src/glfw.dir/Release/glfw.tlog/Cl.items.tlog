@@ -1,0 +1,15 @@
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\context.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\context.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\init.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\init.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\input.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\input.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\monitor.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\monitor.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\vulkan.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\vulkan.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\window.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\window.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\win32_init.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\win32_init.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\win32_joystick.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\win32_joystick.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\win32_monitor.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\win32_monitor.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\win32_time.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\win32_time.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\win32_thread.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\win32_thread.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\win32_window.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\win32_window.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\wgl_context.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\wgl_context.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\egl_context.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\egl_context.obj
+F:\Code\GL\MyGL\Engine\3rdparty\glfw\src\osmesa_context.c;C:\Users\hp\Desktop\MyGL\build_win32\Engine\3rdparty\glfw\src\glfw.dir\Release\osmesa_context.obj

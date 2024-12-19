@@ -1,0 +1,2 @@
+D:\Qt\Tools\mingw1120_64\bin\ar.exe qc libMyGL.a CMakeFiles/MyGL.dir/src/MyGL/buffer/VertexArray.cpp.obj CMakeFiles/MyGL.dir/src/MyGL/buffer/buffers.cpp.obj CMakeFiles/MyGL.dir/src/MyGL/render/pipeline.cpp.obj CMakeFiles/MyGL.dir/src/MyGL/render/rasterizer.cpp.obj CMakeFiles/MyGL.dir/src/MyGL/render/renderer.cpp.obj CMakeFiles/MyGL.dir/src/MyGL/render/shader.cpp.obj CMakeFiles/MyGL.dir/src/MyGL/texture/texture2d.cpp.obj CMakeFiles/MyGL.dir/src/MyGL/texture/textureCubeMap.cpp.obj
+D:\Qt\Tools\mingw1120_64\bin\ranlib.exe libMyGL.a

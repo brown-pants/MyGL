@@ -1,0 +1,217 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Examples/Lighting/Lighting"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_directories",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"Examples/Lighting/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O3 -DNDEBUG"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/hp/\u684c\u9762/MyGL/Engine/./include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hp/\u684c\u9762/MyGL/Engine/../MyGL/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hp/\u684c\u9762/MyGL/Engine/3rdparty/glfw/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hp/\u684c\u9762/MyGL/Engine/3rdparty/stb_image"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/hp/\u684c\u9762/MyGL/Engine/3rdparty/imgui/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "MyGL::@f8bd6fbf65d2dd789562"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "Engine::@8f69bdd092c897d92c1e"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "glfw::@a478454484fd9eb0dbca"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "imgui::@ffea7ab9d8e8e174a41d"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "/Lighting"
+	},
+	"id" : "Lighting::@d78f9b04d9d99590bab5",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-O3 -DNDEBUG",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-L/home/hp/\u684c\u9762/MyGL/Examples/Lighting/../../Engine/include",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/hp/\u684c\u9762/MyGL/Examples/Lighting/../../Engine/include",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "../../Engine/libEngine.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../../MyGL/libMyGL.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../../Engine/3rdparty/imgui/libimgui.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../../Engine/3rdparty/glfw/src/libglfw3.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/librt.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libX11.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lGL",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Lighting",
+	"nameOnDisk" : "Lighting",
+	"paths" : 
+	{
+		"build" : "Examples/Lighting",
+		"source" : "Examples/Lighting"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				2
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Examples/Lighting/src/RenderWindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Examples/Lighting/src/RenderWindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Examples/Lighting/src/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

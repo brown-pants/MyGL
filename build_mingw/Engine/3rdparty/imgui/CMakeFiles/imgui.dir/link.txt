@@ -1,0 +1,2 @@
+D:\Qt\Tools\mingw1120_64\bin\ar.exe qc libimgui.a CMakeFiles/imgui.dir/src/ImGui/imgui.cpp.obj CMakeFiles/imgui.dir/src/ImGui/imgui_demo.cpp.obj CMakeFiles/imgui.dir/src/ImGui/imgui_draw.cpp.obj CMakeFiles/imgui.dir/src/ImGui/imgui_impl_glfw.cpp.obj CMakeFiles/imgui.dir/src/ImGui/imgui_impl_opengl2.cpp.obj CMakeFiles/imgui.dir/src/ImGui/imgui_tables.cpp.obj CMakeFiles/imgui.dir/src/ImGui/imgui_widgets.cpp.obj
+D:\Qt\Tools\mingw1120_64\bin\ranlib.exe libimgui.a

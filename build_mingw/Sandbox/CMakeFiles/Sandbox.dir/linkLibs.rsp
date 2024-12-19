@@ -1,0 +1,1 @@
+  -LC:/Users/hp/Desktop/code/MyGL/Sandbox/../Engine/include  ../Engine/libEngine.a ../MyGL/libMyGL.a ../Engine/3rdparty/imgui/libimgui.a ../Engine/3rdparty/glfw/src/libglfw3.a -lopengl32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

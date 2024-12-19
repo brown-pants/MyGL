@@ -1,0 +1,330 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						7,
+						8
+					],
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "MyGL",
+					"jsonFile" : "directory-MyGL-Release-690ff5789aa5e5d6d068.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "MyGL",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Engine",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-Engine-Release-5a33bb95d3cb2d80b86d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Engine",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Engine/3rdparty",
+					"childIndexes" : 
+					[
+						4,
+						6
+					],
+					"jsonFile" : "directory-Engine.3rdparty-Release-21a746cc67bc6ebae292.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "Engine/3rdparty"
+				},
+				{
+					"build" : "Engine/3rdparty/glfw",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-Engine.3rdparty.glfw-Release-e49d98a9f124d91f2433.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "Engine/3rdparty/glfw"
+				},
+				{
+					"build" : "Engine/3rdparty/glfw/src",
+					"jsonFile" : "directory-Engine.3rdparty.glfw.src-Release-b1788b8d573dec1be318.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 3,
+					"source" : "Engine/3rdparty/glfw/src",
+					"targetIndexes" : 
+					[
+						4,
+						6
+					]
+				},
+				{
+					"build" : "Engine/3rdparty/imgui",
+					"jsonFile" : "directory-Engine.3rdparty.imgui-Release-4ee31dfcdee17ab7c070.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 4,
+					"source" : "Engine/3rdparty/imgui",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "Sandbox",
+					"jsonFile" : "directory-Sandbox-Release-f6a09c83ff2cdb7d8b70.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Sandbox",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Examples",
+					"childIndexes" : 
+					[
+						9
+					],
+					"jsonFile" : "directory-Examples-Release-53b44bb8d6e8dd08aa8f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Examples"
+				},
+				{
+					"build" : "Examples/Lighting",
+					"jsonFile" : "directory-Examples.Lighting-Release-4f7ecbea72380302bcbc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 6,
+					"source" : "Examples/Lighting",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						5,
+						6
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						8
+					],
+					"name" : "Project"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "MyGL",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						2,
+						3
+					],
+					"name" : "Engine",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4,
+						5
+					],
+					"name" : "GLFW",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						4,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "imgui",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "Sandbox",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "Lighting",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Engine::@8f69bdd092c897d92c1e",
+					"jsonFile" : "target-Engine-Release-60a12c596062350de12a.json",
+					"name" : "Engine",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Lighting::@d78f9b04d9d99590bab5",
+					"jsonFile" : "target-Lighting-Release-482d2e4aba3deeb71755.json",
+					"name" : "Lighting",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MyGL::@f8bd6fbf65d2dd789562",
+					"jsonFile" : "target-MyGL-Release-b7ecda141e4a30241df2.json",
+					"name" : "MyGL",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Sandbox::@df4fa095c2a3dbacf8fe",
+					"jsonFile" : "target-Sandbox-Release-d56524f433bfede9d690.json",
+					"name" : "Sandbox",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "glfw::@a478454484fd9eb0dbca",
+					"jsonFile" : "target-glfw-Release-7feebc330225684d2e11.json",
+					"name" : "glfw",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "imgui::@ffea7ab9d8e8e174a41d",
+					"jsonFile" : "target-imgui-Release-54413a17de26292c5428.json",
+					"name" : "imgui",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "update_mappings::@a478454484fd9eb0dbca",
+					"jsonFile" : "target-update_mappings-Release-fd9a9d80f44484f8b1f0.json",
+					"name" : "update_mappings",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hp/\u684c\u9762/MyGL/build",
+		"source" : "/home/hp/\u684c\u9762/MyGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

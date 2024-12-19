@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+add_subdirectory(MyGL)
+add_subdirectory(Engine)
+add_subdirectory(Sandbox)
+add_subdirectory(Examples)
